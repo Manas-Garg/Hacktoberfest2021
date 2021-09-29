@@ -1,0 +1,9 @@
+Problem Statement
+
+You are given a non-empty binary tree where each node has a non-negative integer value. Return the maximum possible sum of path between any two leaves of the given tree.
+The path is also inclusive of the leaf nodes and the maximum path sum may or may not go through the root of the given tree.
+If there is only one leaf node in the tree, then return -1.
+
+Input Format
+The first line of input contains an integer 'T' representing the number of test cases. Then the test cases follow.
+The only line of each test case contains elements in the level order form. The line consists of values of nodes separated by a single space. In case a node is null, we take -1 on its place.
